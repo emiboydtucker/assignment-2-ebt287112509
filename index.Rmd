@@ -1,9 +1,11 @@
 ---
-title: "Welcome!"
+title: "Welcome to our collaborative website!"
 
 output: html_document
 ---
-# Hello!
+# Official Page for the Genetics lab technicians at the Ted Stevens Marine Research Institute!
+<br>
+
 ### Our names are Emi and Arabella! Find our Github profiles below and check out our work!
 
 <br>
