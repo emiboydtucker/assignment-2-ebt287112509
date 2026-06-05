@@ -1,0 +1,12 @@
+---
+title: "Emi"
+
+output: html_document
+---
+
+# Facts about myself!
++ I have a tuxedo cat named Fred!
++ I am from Keene, New Hampshire
++ I love protecting marine species!
++ I live in Auke Bay, Alaska 
++ I love tidepooling and walking Juneau's rocky beaches!
