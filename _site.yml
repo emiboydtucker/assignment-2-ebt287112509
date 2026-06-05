@@ -1,10 +1,17 @@
-
+name: "The Genetics Lab Techs"
 output_dir: "."
 navbar:
   left:
-    - text: "Home"
+    - text: "Meet the team!"
       href: index.html
     - text: "Emi"
       href: Emi.html
     - text: "Arabella"
       href: arabella.html  
+
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    toc: true 
+    toc_float: true 
