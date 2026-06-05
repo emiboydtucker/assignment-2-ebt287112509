@@ -1,14 +1,14 @@
-name: "The Genetics Lab Techs"
-output_dir: "."
+name: "Our Collaborative Website"
 navbar:
+  title: "The Genetics Lab Techs"
   left:
-    - text: "Meet the team!"
+    - text: "Meet the Team!"
       href: index.html
     - text: "Emi"
       href: Emi.html
     - text: "Arabella"
       href: arabella.html  
-
+output_dir: "."
 output:
   html_document:
     theme: yeti
