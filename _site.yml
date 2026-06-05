@@ -12,6 +12,6 @@ output_dir: "."
 output:
   html_document:
     theme: journal
-    highlight: textmate
+    highlight: espresso
     toc: true 
     toc_float: true 
