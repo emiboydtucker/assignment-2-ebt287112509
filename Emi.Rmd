@@ -5,9 +5,14 @@ output: html_document
 ---
 
 # Facts about myself!
-## Lookie here!
 + I have a tuxedo cat named Fred!
 + I am from Keene, New Hampshire
 + I love protecting marine species!
 + I live in Auke Bay, Alaska 
 + I love tidepooling and walking Juneau's rocky beaches!
+
+# What do I do at work?
+## Great Question!
++ Sort salmon bycatch envelopes
++ Process samples from tissue to genotype using the GTseq method
++ Practice R with Arabella and Professor Carl!
