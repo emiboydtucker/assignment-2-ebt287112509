@@ -5,7 +5,7 @@ navbar:
     - text: "Meet the Team!"
       href: index.html
     - text: "Emi"
-      href: Emi.html
+      href: emi.html
     - text: "Arabella"
       href: arabella.html  
 output_dir: "."
