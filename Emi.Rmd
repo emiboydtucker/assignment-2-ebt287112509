@@ -10,6 +10,7 @@ output: html_document
 + I love protecting marine species!
 + I live in Auke Bay, Alaska 
 + I love tidepooling and walking Juneau's rocky beaches!
++ I work at NOAA Fisheries/TSMRI in Juneau AK as a genetics lab technician!
 
 # What do I do at work?
 ## Great Question!
